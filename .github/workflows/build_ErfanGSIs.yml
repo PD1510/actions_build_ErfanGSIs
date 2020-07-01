@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.6.2/miui_HMNote5_20.6.2_af0a82fde6_9.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.6.23/miui_CEPHEUS_20.6.23_d209a8f164_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
